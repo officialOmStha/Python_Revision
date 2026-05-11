@@ -22,9 +22,5 @@ b = 20
 print(f"Address of a : {id(a)}, Address of b : {id(b)}")
 
 
-#Arithmetic operator
-a = 40 - 20
-b = 4 * 5
 
-print(a, b)
 
